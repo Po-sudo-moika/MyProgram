@@ -16,7 +16,7 @@ class Map
 public:
 	const char initMap() {
 		ifstream mapFile("Map.txt");
-		
+		print("Hello world");
 	}
 protected:
 
